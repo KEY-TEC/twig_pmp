@@ -1,4 +1,6 @@
 {
-  "name": "keytec/twig_pmp"
+  "name": "keytec/twig_pmp",
+  "type": "drupal-module",
+  "minimum-stability": "dev"
   
 }
